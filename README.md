@@ -1,1 +1,1 @@
-# Makima.github.io
+# Makima
